@@ -1,5 +1,9 @@
 # XrAPIUDPTester
-WinlatorXR XR API UDP Tester Tool (Originally created for HWXR)
+WinlatorXR XR API UDP Tester Tool (Originally created for [HWXR](https://github.com/WinlatorXR/HaloCEWXR))
+
+Created by Bigelowed
+
+If MIT license doesn't suit your needs, and you can use code under "The Unlicense" to your benefit instead, please feel free to consider this sample project as licensed under "The Unlicense" or Public Domain, I would love to see more PCVR on standalone in future!
 
 Default view:
 <img width="1505" height="259" alt="XrAPITestUDPScreenshot1" src="https://github.com/user-attachments/assets/b24f7b6b-20e6-4bf1-b398-baeb46703dd2" />
